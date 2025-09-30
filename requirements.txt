@@ -1,0 +1,13 @@
+streamlit
+numpy
+regex
+matplotlib
+pandas
+scikit-learn
+tqdm
+huggingface-tokenizers
+tiktoken
+streamlit
+pandas
+graphviz
+pyvis
